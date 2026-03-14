@@ -1,2 +1,13 @@
-# network-design-cisco
-Enterprise network design using Cisco Packet Tracer including IPv6 addressing, VLAN segmentation, and OSPF routing.
+# Enterprise Network Design using Cisco Packet Tracer
+
+This project simulates an enterprise network connecting headquarters and multiple branch offices.
+
+## Features
+- IPv6 addressing scheme
+- Multi-branch WAN topology
+- Router-to-router connections
+- LAN networks for each branch
+- Connectivity testing using ping
+
+## Tools Used
+- Cisco Packet Tracer
